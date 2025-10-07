@@ -1,5 +1,5 @@
 # Solana Pumpfun Sniper Bot 
-This bot fetches to new pumpfun pools and buys as soon as possible. If RPC or node is good, it commonly buy tokens before token is availabel on Pumpfun UI, can buy tokens than the others. It's free, basic version, and I have advanced version for it. I updated codebase with Rust to boost speed and performance. Feel free to contact with me to get advanced version. [Telegram: https://t.me/DevCutup, Whatsapp: https://wa.me/13137423660]. This is just version to give vision about pumpfun and sniper bot.
+This bot fetches to new pumpfun pools and buys as soon as possible. If RPC or node is good, it commonly buy tokens before token is availabel on Pumpfun UI, can buy tokens than the others. It's free, basic version, and I have advanced version for it. I updated codebase with Rust to boost speed and performance. Feel free to contact with me to get advanced version. This is just version to give vision about pumpfun and sniper bot.
 
 
 
@@ -89,7 +89,8 @@ SL=0.5 #50 percentage
 - Dexscreener: https://dexscreener.com/solana/A1zZXCq2DmqwVD4fLDzmgQ3ceY6LQnMBVokejqnHpump
 
 
-### Contact Information
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter: https://x.com/devcutup
+## Contact
+
+- **Telegram:** [https://t.me/Kei4650](https://t.me/Kei4650)  
+- **Twitter:** [https://x.com/kei_4650](https://x.com/kei_4650)  
+
